@@ -13,8 +13,9 @@ The "web-project" folder consists of a basic web project showcasing a login page
 To view the website, visit [https://saikrishna4448.github.io/XenonStackTest2.github.io/](https://saikrishna4448.github.io/XenonStackTest2.github.io/).
 
 ### Screenshots
-![image](https://github.com/ShikhaRajput19/XenonstackTasks/assets/139276680/411cc787-789a-47ef-9747-c663eeda5305)
-![image](https://github.com/ShikhaRajput19/XenonstackTasks/assets/139276680/35dd79b1-da75-4fdb-bf3f-b1077377a882)
+![image](https://github.com/saikrishna4448/XenonStackTest.github.io/assets/73990007/25eb3f01-f486-45c1-ba05-8e0aa191ed36)
+
+![image](https://github.com/saikrishna4448/XenonStackTest.github.io/assets/73990007/0d5f8330-9f7b-4f62-9b0b-e68b1d287e92)
 
 
 Feel free to explore the folders for more details on each task.
