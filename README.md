@@ -10,7 +10,7 @@ In the "linux-tasks" folder, you'll find scripts and documentation for a custom 
 
 The "web-project" folder consists of a basic web project showcasing a login page and a contact page. The main source code is in `index.html`, and it links to `demo.html` and `next.html`.
 
-To view the website, visit [https://shikharajput19.github.io/loginpage/](https://shikharajput19.github.io/loginpage/).
+To view the website, visit [https://saikrishna4448.github.io/XenonStackTest2.github.io/](https://saikrishna4448.github.io/XenonStackTest2.github.io/).
 
 ### Screenshots
 ![image](https://github.com/ShikhaRajput19/XenonstackTasks/assets/139276680/411cc787-789a-47ef-9747-c663eeda5305)
@@ -23,7 +23,7 @@ Feel free to explore the folders for more details on each task.
 
 For any questions or clarifications, feel free to contact the author:
 
-- Shikha Rajput
-- [LinkedIn](https://www.linkedin.com/in/shikha-rajput-9a86b3270/)
+- Sai Krishna Konni
+- [LinkedIn](https://www.linkedin.com/in/sai-krishna-konni-2918651bb/)
 
-**Note:** The website link [https://shikharajput19.github.io/loginpage/](https://shikharajput19.github.io/loginpage/) leads to the deployed version of the basic web project.
+**Note:** The website link [https://saikrishna4448.github.io/XenonStackTest2.github.io/](https://saikrishna4448.github.io/XenonStackTest2.github.io/) leads to the deployed version of the basic web project.
